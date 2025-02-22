@@ -14,7 +14,8 @@ Frontend: HTML, CSS
 Machine Learning: Random Forest Classifier (Scikit-learn)
 
 ### 📌 How to Run
-# Clone the repository:
+
+Clone the repository:
 git clone https://github.com/yourusername/crop-fertilizer-recommendation.git
 
 cd crop-fertilizer-recommendation
