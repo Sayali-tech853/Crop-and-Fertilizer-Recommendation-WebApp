@@ -13,25 +13,25 @@ Backend: Python, Flask
 Frontend: HTML, CSS
 Machine Learning: Random Forest Classifier (Scikit-learn)
 
-## 📌 How to Run
+### 📌 How to Run
 # Clone the repository:
 git clone https://github.com/yourusername/crop-fertilizer-recommendation.git
 
 cd crop-fertilizer-recommendation
 
-# Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 Run the application:
 python app.py
 
-# Open your browser and visit: http://127.0.0.1:5000/
+### Open your browser and visit: http://127.0.0.1:5000/
 📷 Screenshots
 
-# 📚 Dataset
+### 📚 Dataset
 The model is trained using a Kaggle dataset containing soil parameters and crop suitability.
 🤝 Contributing
 Feel free to fork and contribute!
 
-# 📜 License
+### 📜 License
 This project is open-source under the MIT License.
