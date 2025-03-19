@@ -45,7 +45,8 @@ http://127.0.0.1:5000/
 
 ## 📷 Screenshots
 
-*(Include some UI screenshots here)*
+![Uploading Screenshot 2025-02-07 162250.png…]()
+
 
 ## 📚 Dataset
 
