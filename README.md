@@ -3,12 +3,12 @@
 A **Machine Learning-powered** web application that provides intelligent crop and fertilizer recommendations based on soil parameters.
 ## 📷 Screenshots
 
-![Crop & Fertilizer Recommendation WebApp](images/Screenshot1.png)
-![Crop & Fertilizer Recommendation WebApp](images/Screenshot2.png)
-![Crop & Fertilizer Recommendation WebApp](images/Screenshot3.png)
-![Crop & Fertilizer Recommendation WebApp](images/Screenshot4.png)
-![Crop & Fertilizer Recommendation WebApp](images/Screenshot5.png)
-![Crop & Fertilizer Recommendation WebApp](images/screenshot1.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot1.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot2.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot3.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot4.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot5.png)
+![Crop & Fertilizer Recommendation WebApp](Screenshot6.png)
 
 ## 🚀 Features
 
